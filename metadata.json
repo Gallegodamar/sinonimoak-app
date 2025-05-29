@@ -1,6 +1,6 @@
-
 {
   "name": "Sinonimoak Jokoa",
   "description": "Euskarazko sinonimoak ikasteko eta memorizatzeko joko dibertigarria. Lotu bistaratutako hitza aukeren artean dagoen sinonimo zuzenarekin.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "prompt": ""
 }
